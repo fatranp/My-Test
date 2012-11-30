@@ -5,4 +5,4 @@ Diakhir setelah selesai mengerjakan soal, sistem akan secara otomatis menghitung
 #Jquery
 Website ini dibangun mennggunakan Jquery versi 1.4.2
 
-Untuk saat ini hasil bisa dilihat laman di http://www.dquiz.zz.mu/
+Untuk saat ini hasil bisa dilihat di laman http://www.dquiz.zz.mu/
